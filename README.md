@@ -5,7 +5,7 @@ Club for students to create new projects with a work team for training
 
 ## 🚀 About Us
 We create different projects that students want to develop, the whole community proposes different challenges to face semester by semeste
-
+![340622505_550029643907038_7402212802001636097_n](https://github.com/xVrzBx/PROYECTJDBC/assets/91161604/5a552b46-48d9-4466-99d6-098cfde9fee9)
 <h3 align="left"> 🛠 Front-End Skills:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -38,9 +38,6 @@ We create different projects that students want to develop, the whole community 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
   
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
